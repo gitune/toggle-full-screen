@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Toggle Full Screen",
+  "version": "1.0.5",
+  "description": "Toggle full screen by the floating button.",
+
+  "icons": {
+    "48": "icons/icon.svg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [ "<all_urls>" ],
+      "js": [ "content_script.js" ]
+    }
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "toggle-full-screen@digitune.org",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  } 
+}
