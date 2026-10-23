@@ -14,8 +14,7 @@
 
 - 大まかな実装には[nonsleepr/firefox-fullscreen-button](https://github.com/nonsleepr/firefox-fullscreen-button)を参考にさせていただきました。
 - iconはSVG Repoで配布されているDanklammer氏制作のものを利用させていただいています。
-
-Vectors and icons by <a href="https://github.com/danklammer/bytesize-icons?ref=svgrepo.com" target="_blank">Danklammer</a> in MIT License via <a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a>
+  - Vectors and icons by <a href="https://github.com/danklammer/bytesize-icons?ref=svgrepo.com" target="_blank">Danklammer</a> in MIT License via <a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a>
 
 ## No GenAI
 
