@@ -35,7 +35,7 @@ Object.assign(button.style, {
   width: '24px',
   height: '24px',
   padding: '4px',
-  color: 'white',
+  color: 'rgba(255, 255, 255, 0.4)',
   backgroundColor: 'rgba(0, 0, 0, 0.2)',
   borderRadius: '4px',
   display: 'flex',
